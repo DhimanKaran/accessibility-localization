@@ -1,0 +1,42 @@
+/* 
+  ar.strings
+  AccessibilityLearning
+
+  Created by karan dhiman on 22/08/2025.
+  
+*/
+
+/* Arabic (Ar) */
+"home_screen_navigation_bar_title" = "تعلم الوصول الشامل";
+"home_screen_section1_item_title" = "عنصر";
+"home_screen_section1_item_description" = "هذا هو الوصف للعنصر رقم";
+"home_screen_section2_item1_title" = "إمكانية الوصول في iOS";
+"home_screen_section2_item1_description" = "تعلم كيفية إنشاء تطبيقات قابلة للاستخدام للجميع.";
+"home_screen_section2_item1_link" = "https://developer.apple.com/accessibility/";
+"home_screen_section2_item2_title" = "دليل VoiceOver";
+"home_screen_section2_item2_description" = "استكشف كيف يساعد VoiceOver المستخدمين في التنقل داخل التطبيقات.";
+"home_screen_section2_item2_link" = "https://www.apple.com/accessibility/";
+"home_screen_continue_button_title" = "متابعة";
+"generic_cancel_title" = "إلغاء";
+"home_screen_details_section1_title" = "فهم التزامن في سويفت";
+"home_screen_details_section1_description" = "تعلّم كيف يعمل التزامن المنظم في سويفت ولماذا هو تغيير جذري.";
+"home_screen_details_section1_duration_text" = "المدة: 42 دقيقة";
+"generic_play_title" = "تشغيل";
+"home_screen_details_navigation_bar_title" = "تفاصيل الحلقة";
+"home_screen_select_language" = "اختر اللغة";
+"generic_back_button_title" = "رجوع";
+
+// Accessibility strings
+"accessibility_label_home_screen_continue_button" = "استمرار";
+"accessibility_hint_home_screen_continue_button" = "اضغط مرتين للمتابعة إلى الخطوة التالية";
+"accessibility_label_home_screen_section2_link" = "رابط";
+"accessibility_hint_home_screen_section2_link" = "اضغط مرتين لفتح الرابط";
+"accessibility_hint_home_screen_section1_cell_tap_action" = "اضغط مرتين للمزيد من التفاصيل";
+"accessibility_label_home_screen_details_section1_title" = "عنوان الحلقة:";
+"accessibility_label_home_screen_details_section1_description" = "الوصف:";
+"accessibility_label_home_screen_details_section1_play_button" = "تشغيل الحلقة";
+"accessibility_hint_home_screen_details_section1_play_button" = "اضغط مرتين لبدء التشغيل";
+"accessibility_generic_user_input_label_play" = "تشغيل";
+"accessibility_generic_user_input_label_start" = "ابدأ";
+"accessibility_generic_user_input_label_begin" = "ابدأ";
+"accessibility_home_screen_details_add_to_playlist_button_text" = "أضف إلى قائمة التشغيل";

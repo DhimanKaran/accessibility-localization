@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  AccessibilityLearning
+
+  Created by karan dhiman on 22/08/2025.
+  
+*/
+
+/* English (en) */
+"home_screen_navigation_bar_title" = "Accessibility learning";
+"home_screen_section1_item_title" = "Item";
+"home_screen_section1_item_description" = "This is the description for item number";
+"home_screen_section2_item1_title" = "Accessibility in iOS";
+"home_screen_section2_item1_description" = "Learn how to build accessible apps for everyone.";
+"home_screen_section2_item1_link" = "https://developer.apple.com/accessibility/";
+"home_screen_section2_item2_title" = "VoiceOver Guide";
+"home_screen_section2_item2_description" = "Explore how VoiceOver helps users navigate apps.";
+"home_screen_section2_item2_link" = "https://www.apple.com/accessibility/";
+"home_screen_continue_button_title" = "Continue";
+"generic_cancel_title" = "Cancel";
+"home_screen_details_section1_title" = "Understanding Swift Concurrency";
+"home_screen_details_section1_description" = "Learn how structured concurrency works in Swift and why it's a game changer.";
+"home_screen_details_section1_duration_text" = "Duration: 42 minutes";
+"generic_play_title" = "Play";
+"home_screen_details_navigation_bar_title" = "Episode Details";
+"home_screen_select_language" = "Select Language";
+"generic_back_button_title" = "back";
+
+// Accessibility strings
+"accessibility_label_home_screen_continue_button" = "Continue";
+"accessibility_hint_home_screen_continue_button" = "Double tap to proceed to the next step";
+"accessibility_label_home_screen_section2_link" = "Link";
+"accessibility_hint_home_screen_section2_link" = "Double tap to open link";
+"accessibility_hint_home_screen_section1_cell_tap_action" = "Double tap for more details";
+"accessibility_label_home_screen_details_section1_title" = "Episode title:";
+"accessibility_label_home_screen_details_section1_description" = "Description:";
+"accessibility_label_home_screen_details_section1_play_button" = "Play episode";
+"accessibility_hint_home_screen_details_section1_play_button" = "Double-tap to start playback";
+"accessibility_generic_user_input_label_play" = "Play";
+"accessibility_generic_user_input_label_start" = "Start";
+"accessibility_generic_user_input_label_begin" = "Begin";
+"accessibility_home_screen_details_add_to_playlist_button_text" = "Add to Playlist";
+

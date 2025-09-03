@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  AccessibilityLearning
+
+  Created by karan dhiman on 22/08/2025.
+  
+*/
+
+/* German (de) */
+"home_screen_navigation_bar_title" = "Barrierefreiheit lernen";
+"home_screen_section1_item_title" = "Element";
+"home_screen_section1_item_description" = "Dies ist die Beschreibung für Element Nummer";
+"home_screen_section2_item1_title" = "Barrierefreiheit in iOS";
+"home_screen_section2_item1_description" = "Erfahren Sie, wie man barrierefreie Apps für alle erstellt.";
+"home_screen_section2_item1_link" = "https://developer.apple.com/accessibility/";
+"home_screen_section2_item2_title" = "VoiceOver-Anleitung";
+"home_screen_section2_item2_description" = "Erfahren Sie, wie VoiceOver Benutzern hilft, Apps zu bedienen.";
+"home_screen_section2_item2_link" = "https://www.apple.com/accessibility/";
+"home_screen_continue_button_title" = "Weiter";
+"generic_cancel_title" = "Abbrechen";
+"home_screen_details_section1_title" = "Swift Concurrency verstehen";
+"home_screen_details_section1_description" = "Lerne, wie strukturierte Nebenläufigkeit in Swift funktioniert und warum sie ein Wendepunkt ist.";
+"home_screen_details_section1_duration_text" = "Dauer: 42 Minuten";
+"generic_play_title" = "Abspielen";
+"home_screen_details_navigation_bar_title" = "Episodendetails";
+"home_screen_select_language" = "Sprache auswählen";
+"generic_back_button_title" = "Zurück";
+
+// Accessibility strings
+"accessibility_label_home_screen_continue_button" = "Weiter";
+"accessibility_hint_home_screen_continue_button" = "Doppeltippen, um zum nächsten Schritt zu gelangen";
+"accessibility_label_home_screen_section2_link" = "Link";
+"accessibility_hint_home_screen_section2_link" = "Doppeltippen, um den Link zu öffnen";
+"accessibility_hint_home_screen_section1_cell_tap_action" = "Doppeltippen für weitere Details";
+"accessibility_label_home_screen_details_section1_title" = "Folgentitel:";
+"accessibility_label_home_screen_details_section1_description" = "Beschreibung:";
+"accessibility_label_home_screen_details_section1_play_button" = "Folge abspielen";
+"accessibility_hint_home_screen_details_section1_play_button" = "Doppeltippen, um die Wiedergabe zu starten";
+"accessibility_generic_user_input_label_play" = "Abspielen";
+"accessibility_generic_user_input_label_start" = "Starten";
+"accessibility_generic_user_input_label_begin" = "Beginnen";
+"accessibility_home_screen_details_add_to_playlist_button_text" = "Zur Playlist hinzufügen";

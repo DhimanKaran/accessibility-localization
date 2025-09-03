@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  AccessibilityLearning
+
+  Created by karan dhiman on 22/08/2025.
+  
+*/
+
+/* Hindi (hi) */
+"home_screen_navigation_bar_title" = "पहुँच अधिगम";
+"home_screen_section1_item_title" = "आइटम";
+"home_screen_section1_item_description" = "यह आइटम संख्या के लिए विवरण है";
+"home_screen_section2_item1_title" = "iOS में पहुँच";
+"home_screen_section2_item1_description" = "सीखें कि सभी के लिए सुलभ ऐप कैसे बनाएं।";
+"home_screen_section2_item1_link" = "https://developer.apple.com/accessibility/";
+"home_screen_section2_item2_title" = "VoiceOver मार्गदर्शिका";
+"home_screen_section2_item2_description" = "पता करें कि VoiceOver उपयोगकर्ताओं को ऐप्स नेविगेट करने में कैसे मदद करता है।";
+"home_screen_section2_item2_link" = "https://www.apple.com/accessibility/";
+"home_screen_continue_button_title" = "जारी रखें";
+"generic_cancel_title" = "रद्द करें";
+"home_screen_details_section1_title" = "Swift Concurrency को समझना";
+"home_screen_details_section1_description" = "जानें कि Swift में structured concurrency कैसे काम करती है और यह क्यों गेम चेंजर है।";
+"home_screen_details_section1_duration_text" = "अवधि: 42 मिनट";
+"generic_play_title" = "चलाएं";
+"home_screen_details_navigation_bar_title" = "एपिसोड विवरण";
+"home_screen_select_language" = "भाषा चुनें";
+"generic_back_button_title" = "वापस";
+
+// Accessibility strings
+"accessibility_label_home_screen_continue_button" = "जारी रखें";
+"accessibility_hint_home_screen_continue_button" = "अगले चरण पर जाने के लिए डबल टैप करें";
+"accessibility_label_home_screen_section2_link" = "लिंक";
+"accessibility_hint_home_screen_section2_link" = "लिंक खोलने के लिए डबल टैप करें";
+"accessibility_hint_home_screen_section1_cell_tap_action" = "अधिक जानकारी के लिए डबल टैप करें";
+"accessibility_label_home_screen_details_section1_title" = "एपिसोड का शीर्षक:";
+"accessibility_label_home_screen_details_section1_description" = "विवरण:";
+"accessibility_label_home_screen_details_section1_play_button" = "एपिसोड चलाएं";
+"accessibility_hint_home_screen_details_section1_play_button" = "प्लेबैक शुरू करने के लिए डबल टैप करें";
+"accessibility_generic_user_input_label_play" = "चलाएं";
+"accessibility_generic_user_input_label_start" = "प्रारंभ करें";
+"accessibility_generic_user_input_label_begin" = "शुरू करें";
+"accessibility_home_screen_details_add_to_playlist_button_text" = "प्लेलिस्ट में जोड़ें";

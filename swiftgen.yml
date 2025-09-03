@@ -1,0 +1,6 @@
+strings:
+  inputs:
+    - AccessibilityLearning/Resources/Localization/en.lproj/Localizable.strings
+  outputs:
+    - templatePath: swiftgen-templates/strings/strings
+      output: AccessibilityLearning/Resources/Generated/Strings+Generated.swift

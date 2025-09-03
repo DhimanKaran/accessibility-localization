@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  AccessibilityLearning
+
+  Created by karan dhiman on 22/08/2025.
+  
+*/
+
+/* French (fr) */
+"home_screen_navigation_bar_title" = "Apprentissage de l'accessibilité";
+"home_screen_section1_item_title" = "Élément";
+"home_screen_section1_item_description" = "Ceci est la description pour l’élément numéro";
+"home_screen_section2_item1_title" = "Accessibilité sur iOS";
+"home_screen_section2_item1_description" = "Apprenez à créer des applications accessibles à tous.";
+"home_screen_section2_item1_link" = "https://developer.apple.com/accessibility/";
+"home_screen_section2_item2_title" = "Guide VoiceOver";
+"home_screen_section2_item2_description" = "Découvrez comment VoiceOver aide les utilisateurs à naviguer dans les apps.";
+"home_screen_section2_item2_link" = "https://www.apple.com/accessibility/";
+"home_screen_continue_button_title" = "Continuer";
+"generic_cancel_title" = "Annuler";
+"home_screen_details_section1_title" = "Comprendre la concurrence en Swift";
+"home_screen_details_section1_description" = "Découvrez comment fonctionne la concurrence structurée en Swift et pourquoi c'est une révolution.";
+"home_screen_details_section1_duration_text" = "Durée : 42 minutes";
+"generic_play_title" = "Lire";
+"home_screen_details_navigation_bar_title" = "Détails de l'épisode";
+"home_screen_select_language" = "Choisir la langue";
+"generic_back_button_title" = "Retour";
+
+// Accessibility strings
+"accessibility_label_home_screen_continue_button" = "Continuer";
+"accessibility_hint_home_screen_continue_button" = "Appuyez deux fois pour passer à l'étape suivante";
+"accessibility_label_home_screen_section2_link" = "Lien";
+"accessibility_hint_home_screen_section2_link" = "Appuyez deux fois pour ouvrir le lien";
+"accessibility_hint_home_screen_section1_cell_tap_action" = "Appuyez deux fois pour plus de détails";
+"accessibility_label_home_screen_details_section1_title" = "Titre de l'épisode:";
+"accessibility_label_home_screen_details_section1_description" = "Description:";
+"accessibility_label_home_screen_details_section1_play_button" = "Lire l'épisode";
+"accessibility_hint_home_screen_details_section1_play_button" = "Appuyez deux fois pour démarrer la lecture";
+"accessibility_generic_user_input_label_play" = "Lecture";
+"accessibility_generic_user_input_label_start" = "Démarrer";
+"accessibility_generic_user_input_label_begin" = "Commencer";
+"accessibility_home_screen_details_add_to_playlist_button_text" = "Ajouter à la playlist";
